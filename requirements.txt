@@ -1,0 +1,8 @@
+streamlit
+gtts
+langchain-google-genai
+speechrecognition
+pydub
+streamlit-webrtc
+soundfile
+numpy
