@@ -146,5 +146,11 @@ The app will open in your browser at `http://localhost:8501`
 - Offline language support
 
  ## Results
-<img width="1600" height="717" alt="image" src="https://github.com/user-attachments/assets/28eee0f6-69e7-4292-9bd7-a8daa5dfe6fe" />
+![WhatsApp Image 2026-03-04 at 5 59 55 PM](https://github.com/user-attachments/assets/f9145e7f-13d0-4824-abf4-c61bc1cb8e5c)
+
+![WhatsApp Image 2026-03-04 at 6 01 16 PM](https://github.com/user-attachments/assets/a82ca7b4-cacc-4170-a286-485d069f8a5d)
+
+![WhatsApp Image 2026-03-04 at 6 01 17 PM](https://github.com/user-attachments/assets/5f4040fa-3afb-4046-a3db-5eac6ee25b95)
+
+
 
