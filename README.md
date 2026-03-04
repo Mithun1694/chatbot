@@ -123,7 +123,6 @@ The app will open in your browser at `http://localhost:8501`
 3. **AI Processing**: Gemini model processes the English prompt
 4. **Multi-language Response**: Response is translated to all supported languages
 5. **Storage**: All versions stored in chat history
-6. **Display & Audio**: Response displayed and read aloud in user's language
 
 ## 🔐 Security Notes
 
@@ -136,7 +135,6 @@ The app will open in your browser at `http://localhost:8501`
 
 - Demo OTP is displayed on screen (implement SMS gateway for production)
 - Translation quality depends on Gemini model capabilities
-- Audio playback requires speaker access
 
 ## 🚀 Future Enhancements
 
@@ -147,10 +145,6 @@ The app will open in your browser at `http://localhost:8501`
 - Location-based recommendations
 - Offline language support
 
-## 📄 License
+ ## Results
+<img width="1600" height="717" alt="image" src="https://github.com/user-attachments/assets/28eee0f6-69e7-4292-9bd7-a8daa5dfe6fe" />
 
-This project is open source and available for educational purposes.
-
-## 👤 Author
-
-**Mithun1694** - [GitHub Profile](https://github.com/Mithun1694)
